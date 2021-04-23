@@ -9,9 +9,9 @@ const name = ' tomi';
 const gree1 = 'go to sleep  ';
 const gree2 = 'good morning  ';
 const gree3 = 'good afternoon  ';
-const gree4 = 'good evening,  ';
-const gree5 = 'good evening,  ';
-const gree6 = 'good evening,  ';
+const gree4 = 'good evening  ';
+const gree5 = 'good evening  ';
+const gree6 = 'good evening  ';
 
 // Define the hours of the greetings
 if (hour >= 23 && hour < 5) {
