@@ -33,8 +33,8 @@
 /* Dark theme  */
 .darktheme {
   --accent: #40a39d; /* Hover color */
-  --bg: #222d32; /* Background color */
-  --sbg: #2B3940; /* Cards color */
+  --bg: #000000; /* Background color */
+  --sbg: #222222; /* Cards color */
   --fg: #d8dee9; /* Foreground color */
   --sfg: #3a3a3a; /* Secondary Foreground color */
   --imgcol: linear-gradient(
